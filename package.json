@@ -1,0 +1,17 @@
+{
+    "name": "gatsby-plugin-typescript-checker",
+    "description": "Adds TypeScript Checking support to Gatsby",
+    "author": "Dale Jefferson <dale@dalejefferson.com>",
+    "license": "MIT",
+    "version": "1.0.0",
+    "repository": "https://github.com/DaleJefferson/gatsby-plugin-typescript-checker",
+    "keywords": [
+        "gatsby",
+        "gatsby-plugin",
+        "gatsby-plugin-typescript",
+        "typescript"
+    ],
+    "dependencies": {
+        "fork-ts-checker-webpack-plugin": "^0.5.0"
+    }
+}
