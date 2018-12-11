@@ -3,7 +3,7 @@
     "description": "Adds TypeScript Checking support to Gatsby",
     "author": "Dale Jefferson <dale@dalejefferson.com>",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": "https://github.com/DaleJefferson/gatsby-plugin-typescript-checker",
     "keywords": [
         "gatsby",
