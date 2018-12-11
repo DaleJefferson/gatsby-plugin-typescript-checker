@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "8"
+cache: yarn
+deploy:
+  provider: npm
+  email: dale@dalejefferson.com
+  api_key:
+    secure: c5f645b9O9p3LKb76BOjsvoKm/XN1FaUiAyX+x4w6Mlw3vKUDBwHOUxD9sIO0t3n8wOg15blpUZcoxyHdZFaUQ0MSK7PmJ4B99ZJRruQhhrVKY5e/L5qJXFNSDQ98vaVyM8oinRbLdxTi8Awb4fN4bIAIEjgxEvnqBPTrCird2ri7N6ap66jV6IrY/ElsCtA2Y4Vk8wWpfGxeueQNEBeW7sy9Jl7F2OAeLl3d8dqZwtEM9NS1103SMun7X6+f8A5GHZcZVVi8pFqwTyMkaNGxqjAz9n6ZjHSakCLr5LuzDvFyl2A77kKpq4SHjwaNRLsp6cbmB6DOYQuT7VW1TXcLdgXxeDiyyTZdLqY989wqf2qdsl7/6PriC2/xRdv6GDrtzrbpJukZ5z0grmGTUsWOtwNraQhJSWZLfWFUzLN7vWmHJ+FNF9Hs1yyEne6vRw7kYW+qzSBqmnwA2hqo7T+w2DogiflqYAga94oPxZlKcQVbzc0o8A5+85ggS7yKeQ4m751yYTCmIt64nEdIq7uS4HkSw9rIyxA/j02ezvzvAK/WT7P55tZFNCyvbit5dh3rZej2HOWoSA8rPgDQKYqJYkVxV98+lT/kngrM3g0ecPK7cMu3b37NBOd3Vh2yZzqGahIKKt+DPqgDeqm/K7pwsK8aVMzX+s/23bbSGa2IB0=
+  on:
+    tags: true
+    repo: DaleJefferson/gatsby-plugin-typescript-checker

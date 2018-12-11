@@ -5,6 +5,7 @@
     "license": "MIT",
     "version": "1.0.2",
     "repository": "https://github.com/DaleJefferson/gatsby-plugin-typescript-checker",
+    "files": ["index.js", "gatsby-node.js"],
     "keywords": [
         "gatsby",
         "gatsby-plugin",
