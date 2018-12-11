@@ -12,6 +12,9 @@
         "gatsby-plugin-typescript",
         "typescript"
     ],
+    "scripts": {
+        "test": "exit 0"
+    },
     "dependencies": {
         "fork-ts-checker-webpack-plugin": "^0.5.0"
     }
