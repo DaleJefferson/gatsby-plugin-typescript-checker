@@ -2,7 +2,7 @@
 
 `gatsby-plugin-typescript` adds TypeScript transpilation but not type checking. This plug adds `fork-ts-checker-webpack-plugin` to Gatsby to display type errors in the browser and the command line.
 
-![Example](example.png)
+![Example](https://github.com/DaleJefferson/gatsby-plugin-typescript-checker/raw/master/example.png)
 
 ## Install
 
