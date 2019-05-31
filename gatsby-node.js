@@ -1,7 +1,7 @@
 const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin')
 
 exports.onCreateWebpackConfig = ({ stage, actions }, options) => {
-  if (stage != 'develop') {
+  if (stage !== 'develop') {
     return
   }
 
