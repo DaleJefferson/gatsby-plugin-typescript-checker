@@ -1,10 +1,10 @@
 {
     "name": "gatsby-plugin-typescript-checker",
     "description": "Adds TypeScript Checking support to Gatsby",
-    "author": "Dale Jefferson <dale@dalejefferson.com>",
+    "author": "Dale L Jefferson <dale@dalejefferson.com>",
     "license": "MIT",
-    "version": "1.1.0",
-    "repository": "https://github.com/DaleJefferson/gatsby-plugin-typescript-checker",
+    "version": "1.1.1",
+    "repository": "https://github.com/DaleLJefferson/gatsby-plugin-typescript-checker",
     "files": [
         "index.js",
         "gatsby-node.js"
